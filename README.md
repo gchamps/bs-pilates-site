@@ -10,7 +10,7 @@ Projeto desenvolvido como estudo de HTML, CSS e JavaScript, simulando um site in
 
 Acesse o projeto:
 
-https://github.com/gchamps/bspilates/tree/main
+https://github.com/gchamps/bspilates
 
 ## 📌 Funcionalidades
 
