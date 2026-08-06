@@ -4,13 +4,13 @@ Projeto desenvolvido como estudo de HTML, CSS e JavaScript, simulando um site in
 
 ## 📷 Preview
 
-<img src="./assets/img/preview.png" width="800">
+<img src="./assets/preview.png" width="800">
 
 ## 🚀 Demonstração
 
 Acesse o projeto:
 
-https://SEU-USUARIO.github.io/bs-pilates-site/
+https://github.com/gchamps/bspilates/tree/main
 
 ## 📌 Funcionalidades
 
