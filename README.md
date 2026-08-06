@@ -4,7 +4,7 @@ Projeto desenvolvido como estudo de HTML, CSS e JavaScript, simulando um site in
 
 ## 📷 Preview
 
-<img src="./assets/preview.png" width="800">
+<img src="./assets/preview.png.png" width="800">
 
 ## 🚀 Demonstração
 
