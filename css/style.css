@@ -53,7 +53,7 @@ body {
 /* Hero */
 .hero {
   height: 100vh;
-  background: url('assets/hero.jpg') no-repeat center center/cover;
+  background: url('../assets/bspilates.PNG') no-repeat center center/cover;
   display: flex;
   justify-content: center;
   align-items: center;

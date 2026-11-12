@@ -4,13 +4,11 @@ Projeto desenvolvido como estudo de HTML, CSS e JavaScript, simulando um site in
 
 ## 📷 Preview
 
-<img src="./assets/preview.png.png" width="800">
+<img src="./assets/preview.png" width="800">
 
 ## 🚀 Demonstração
 
-Acesse o projeto:
-
-https://github.com/gchamps/bspilates
+🔗 **[Ver o site online](https://gchamps.github.io/bs-pilates-site/)** (GitHub Pages)
 
 ## 📌 Funcionalidades
 
@@ -20,6 +18,7 @@ https://github.com/gchamps/bspilates
 - Scroll suave
 - Seções institucionais
 - Botão para WhatsApp
+- Galeria de fotos e vídeos
 
 ## 🛠️ Tecnologias
 
@@ -37,9 +36,17 @@ https://github.com/gchamps/bspilates
  ┣ 📂 css
  ┣ 📂 js
  ┣ 📜 index.html
- ┣ 📜 midias.md
+ ┣ 📜 midias.html
  ┣ 📜 README.md
  ┗ 📜 LICENSE
+```
+
+## ▶️ Como executar localmente
+
+```bash
+git clone https://github.com/gchamps/bs-pilates-site.git
+cd bs-pilates-site
+# abra o index.html no navegador
 ```
 
 ## 🎯 Objetivo
@@ -54,7 +61,7 @@ Este projeto foi desenvolvido exclusivamente para estudo, praticando:
 
 ## 📈 Melhorias futuras
 
-- [ ] Galeria de imagens
+- [x] Galeria de imagens (`midias.html`)
 - [ ] Página de serviços
 - [ ] Formulário de contato
 - [ ] Integração com Google Maps
@@ -65,8 +72,5 @@ Este projeto foi desenvolvido exclusivamente para estudo, praticando:
 
 Gabriel Champin
 
-LinkedIn:
-www.linkedin.com/in/gabrielchampin
-
-GitHub:
-https://github.com/gchamps
+- LinkedIn: https://www.linkedin.com/in/gabrielchampin/
+- GitHub: https://github.com/gchamps
